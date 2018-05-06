@@ -1,0 +1,14 @@
+// test of the if-then and if-then-else logic
+procedure main {
+  int one, two;
+  int three[0:9];
+
+  read one;
+  two = 2;
+  read three[2];
+
+  write one;
+  write two;
+  write three[2];
+  write 4;
+}

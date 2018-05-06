@@ -1,0 +1,11 @@
+procedure fortest {
+  int i, j, upper, a[0:5];
+  upper = 10;
+
+  for a[0] = 1 to upper by 1 {
+    write i;
+    for j = 1 to upper by 1 {
+      write j;
+    }
+  }	 
+}

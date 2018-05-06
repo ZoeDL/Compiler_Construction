@@ -1,0 +1,15 @@
+This directory contains software tools for lab 2 in COMP 506.
+
+  -- lab2_ref is a reference implementation of the lab
+     You may execute it on the CLEAR systems.  The -v flag 
+     increases the level of comments in the generated ILOC 
+     code.
+
+  -- sim is the ILOC simulator for this lab. Its documentation
+     is found on the course web site and in the file SimDoc.pdf
+     in this directory.  
+
+     The tar archive file contains the source code for the simulator.
+     You may wish to build a copy on your own machine to simplify 
+     debugging.
+

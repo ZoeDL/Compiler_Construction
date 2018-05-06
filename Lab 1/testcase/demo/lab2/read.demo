@@ -1,0 +1,18 @@
+procedure readtest {
+  int a, b[0:9];
+  char c, d[0:9];
+
+
+  read a;
+  read b[3];
+  read c;
+  read d[3];
+
+  write a;
+  write b[3];
+  write c;
+  write d[3];
+
+  write ' ';
+  write b[3] + 1;
+}

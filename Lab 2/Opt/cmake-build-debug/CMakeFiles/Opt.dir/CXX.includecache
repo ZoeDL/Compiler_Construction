@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Rice/PPT/Spr 2018/COMP 506/Lab 2/Opt/opt.cc
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+cctype
+-
+unordered_map
+-
+cmath
+-
+algorithm
+-
+unordered_set
+-
+stdio.h
+-
+string.h
+-
+

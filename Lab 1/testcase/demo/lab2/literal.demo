@@ -1,0 +1,7 @@
+// test of literal numbers in expressions 
+procedure main {
+  int one, a[0:9];
+
+  one = 1 + 2;
+  write one;
+}

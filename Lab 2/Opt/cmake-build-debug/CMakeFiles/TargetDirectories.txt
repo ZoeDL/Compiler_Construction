@@ -1,0 +1,3 @@
+/cygdrive/d/Rice/PPT/Spr 2018/COMP 506/Lab 2/Opt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Rice/PPT/Spr 2018/COMP 506/Lab 2/Opt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Rice/PPT/Spr 2018/COMP 506/Lab 2/Opt/cmake-build-debug/CMakeFiles/Opt.dir

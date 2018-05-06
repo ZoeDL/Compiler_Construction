@@ -1,0 +1,31 @@
+This directory contains the source code for the ILOC 
+optimizer, as used in COMP 506, Spring 2016 semester.
+
+Makefile:
+
+	make opt    -- builds the optimizer
+
+	make clean  -- removes temporary files from the directory
+
+Using the optimizer:
+
+1. make opt
+2. using cmd:
+
+    opt [flags] file_name
+
+    you should select at least one, or both two optimizations in flags:
+
+    -v: value numbering
+    -u: loop unrolling
+    -i: loop-invariant code motion (not implemented)
+
+    you can specify the orders which the optimizations excute.
+
+    Examples:
+        ./opt -u ./abc.i
+        ./opt -u -v ./abc.i
+        ./opt -v -u ./abc.i
+
+
+

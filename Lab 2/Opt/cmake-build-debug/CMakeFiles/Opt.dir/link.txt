@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Opt.dir/opt.cc.o  -o Opt.exe -Wl,--out-implib,libOpt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

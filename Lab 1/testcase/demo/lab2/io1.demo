@@ -1,0 +1,8 @@
+// test of the if-then and if-then-else logic
+procedure main {
+  int one, a[0:9];
+
+  one = 1;
+  a[3] = one;
+  write a[3];
+}
